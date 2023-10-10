@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received my master's degree (cum laude) in Computer Science, specialization in Artificial Intelligence, at [Leiden University](https://www.universiteitleiden.nl/en) in 2023. Previously, I completed my bachelor's degree in Computer Engineering at the [University of Modena and Reggio Emilia](https://international.unimore.it/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My primary research interests are in machine learning and computer vision, with a focus on representation learning and self-supervised learning. I am also interested in vision-language models, (model-based) reinforcement learning, and external memories for artificial neural networks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently searching for a PhD position in one of the listed areas or a related one.

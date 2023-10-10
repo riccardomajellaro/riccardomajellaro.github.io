@@ -3,30 +3,29 @@
   contents:
     - name: Full Name
       value: Riccardo Majellaro
-    - email: Email
+    - name: Email
       value: riccardomajellaro [at] gmail [dot] com
-    - name: Languages
-      value: Italian (native), English (fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: MSc
+    - title: Master of Science
       institution: Leiden University, Leiden, Netherlands
       year: sept 2021 - jul 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: BSc
+        - Cum Laude
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Bachelor of Science
       institution: University of Modena and Reggio Emilia, Modena, Italy
       year: sept 2017 - oct 2020
       description:
-        - Description 1.
-        - Description 2.
+        - name: Thesis
+          value: Distributed Training of DETR on Marconi100
+        # - Description 2.
 
 - title: Experience
   type: time_table
@@ -37,6 +36,11 @@
       description:
         - Teaching assistant for the MSc course "Reinforcement Learning" taught by Prof. Aske Plaat
         - Correcting and grading assignments. Helping students via email and during workgroup sessions
+
+- title: Languages
+  type: list
+  contents:
+    - Italian (native), English (fluent)
 
 # - title: Open Source Projects
 #   type: time_table

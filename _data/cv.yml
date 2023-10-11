@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science
+    - title: MSc Computer Science (Artificial Intelligence track)
       institution: Leiden University, Leiden, Netherlands
       year: sept 2021 - jul 2023
       description:
@@ -19,13 +19,11 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Bachelor of Science
+    - title: BSc Computer Engineering
       institution: University of Modena and Reggio Emilia, Modena, Italy
       year: sept 2017 - oct 2020
       description:
-        - name: Thesis
-          value: Distributed Training of DETR on Marconi100
-        # - Description 2.
+        - Thesis:&nbsp;"Distributed Training of DETR on Marconi100"
 
 - title: Experience
   type: time_table

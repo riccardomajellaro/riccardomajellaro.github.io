@@ -14,11 +14,21 @@
       year: sept 2021 - jul 2023
       description:
         - Cum Laude
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+        - title: Courses
+          contents:
+            - Introduction to Machine Learning
+            - Statistical Learning
+            - Introduction to Deep Learning
+            - Advances in Deep Learning
+            - Reinforcement Learning
+            - Seminar Advanced Deep Reinforcement Learning
+            - Text Mining
+            - Advances in Data Mining
+            - Automated Machine Learning
+            - Multicriteria Optimization and Decision Analysis
+            - Evolutionary Algorithms
+            - Robotics
+            - Modern Game AI Algorithms
     - title: BSc Computer Engineering
       institution: University of Modena and Reggio Emilia, Modena, Italy
       year: sept 2017 - oct 2020

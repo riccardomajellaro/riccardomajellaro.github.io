@@ -5,5 +5,5 @@ description: We created a simulated 3D environment in which a robot has to detec
 img: /assets/img/trash_away_short_demo.gif
 importance: 2
 category: MSc
-url: https://github.com/riccardomajellaro/TrashAway_Robot/tree/main
+redirect: https://github.com/riccardomajellaro/TrashAway_Robot/tree/main
 ---

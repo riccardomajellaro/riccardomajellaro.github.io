@@ -5,5 +5,5 @@ description: This project was conducted as part of a research seminar during the
 img: /assets/img/IIO_methods.jpg
 importance: 1
 category: MSc
-redirect: /assets/pdf/IIO_Preprint.pdf
+redirect: https://riccardomajellaro.github.io/assets/pdf/IIO_Preprint.pdf
 ---

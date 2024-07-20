@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I received my master's degree (cum laude) in Computer Science, specialization in Artificial Intelligence, at [Leiden University](https://www.universiteitleiden.nl/en) in 2023. Previously, I completed my bachelor's degree in Computer Engineering at the [University of Modena and Reggio Emilia](https://international.unimore.it/).
+Machine Learning Engineer. I received my master's degree (cum laude) in Computer Science, specialization in Artificial Intelligence, at [Leiden University](https://www.universiteitleiden.nl/en) in 2023. Previously, I completed my bachelor's degree in Computer Engineering at the [University of Modena and Reggio Emilia](https://international.unimore.it/).
 
-My primary research interests are in machine learning and computer vision, with a focus on representation learning and self-supervised learning. I am also interested in vision-language models, (model-based) reinforcement learning, and external memories for artificial neural networks.
+My primary research interests are in machine learning and computer vision, with a focus on representation learning, unsupervised learning, and self-supervised learning. I worked on topics such as object-centric representation learning, unsupervised learning of multi-object 3D scenes from single-view images, and (model-based) reinforcement learning. I am also interested in vision-language models, embodied agents, and external memories for artificial neural networks.
 
-I am currently searching for a PhD position in one of the listed areas or a related one.
+Currently working on explainability (XAI) at [DuckDuckGoose](https://www.duckduckgoose.ai/).

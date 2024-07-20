@@ -39,6 +39,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Machine Learning Engineer
+      institution: DuckDuckGoose
+      year: jun 2024 - present
+      description:
+        - Currently researching methodologies to improve the explainability of deep learning models
+
+- title: Experience
+  type: time_table
+  contents:
     - title: Teaching Assistant
       institution: LIACS, Leiden University
       year: feb 2023 - jul 2023

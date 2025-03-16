@@ -43,7 +43,9 @@
       institution: DuckDuckGoose
       year: jun 2024 - present
       description:
-        - Currently researching methodologies to improve the explainability of deep learning models
+        - Research on deepfake detection and explainability methods for deep learning models.
+        - Design and conduct experiments to improve state-of-the-art deepfake detection models.
+        - Write production-level code to deploy the developed models.
     - title: Teaching Assistant
       institution: LIACS, Leiden University
       year: feb 2023 - jul 2023

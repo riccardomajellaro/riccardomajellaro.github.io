@@ -20,4 +20,4 @@ Machine Learning Engineer. I received my master's degree (cum laude) in Computer
 
 My primary research interests are in machine learning and computer vision, with a focus on representation learning, unsupervised learning, and self-supervised learning. I worked on topics such as object-centric representation learning, unsupervised learning of multi-object 3D scenes from single-view images, and (model-based) reinforcement learning. I am also interested in vision-language models, embodied agents, and external memories for artificial neural networks.
 
-Currently working on explainability (XAI) at [DuckDuckGoose](https://www.duckduckgoose.ai/).
+Currently doing research on deepfake detection and explainability (XAI) at [DuckDuckGoose](https://www.duckduckgoose.ai/).

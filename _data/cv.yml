@@ -6,6 +6,30 @@
     - name: Email
       value: riccardomajellaro [at] gmail [dot] com
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Machine Learning Engineer
+      institution: Qualcomm
+      year: oct 2025 - present
+      description:
+        - Working on ML for chip design optimization.
+    - title: Machine Learning Engineer
+      institution: DuckDuckGoose
+      year: jun 2024 - sep 2025
+      description:
+        - Research on deepfake detection and explainability methods.
+        - Designed and conducted experiments to improve internal and academic SOTA deepfake detection models, achieving up to 15% accuracy improvement on fake samples at very low false positive rate (~0.5%) while reducing model size 6.5x and inference speed 2.5x.
+        - Led research and development of novel explainability method for deepfake detection models, outperforming current academic SOTA.
+        - Wrote production-level code to deploy ML models, optimizing speed and memory requirements.
+        - Designed algorithm to minimize models deployment costs while maintaining efficiency by leveraging clients usage statistics.
+    - title: Teaching Assistant (Reinforcement Learning)
+      institution: LIACS, Leiden University
+      year: feb 2023 - jul 2023
+      description:
+        - Teaching assistant for the MSc course "Reinforcement Learning" taught by Prof. Aske Plaat
+        - Correcting and grading assignments. Helping students via email and during workgroup sessions
+
 - title: Education
   type: time_table
   contents:
@@ -58,25 +82,6 @@
             - Digital Electronics
             - Fundamentals of Telecommunications
             - Introduction to Business Management
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Machine Learning Engineer
-      institution: DuckDuckGoose
-      year: jun 2024 - present
-      description:
-        - Research on deepfake detection and explainability methods.
-        - Designed and conducted experiments to improve internal and academic SOTA deepfake detection models, achieving up to 15% accuracy improvement on fake samples at very low false positive rate (~0.5%) while reducing model size 6.5x and inference speed 2.5x.
-        - Led research and development of novel explainability method for deepfake detection models, outperforming current academic SOTA.
-        - Wrote production-level code to deploy ML models, optimizing speed and memory requirements.
-        - Designed algorithm to minimize models deployment costs while maintaining efficiency by leveraging clients usage statistics.
-    - title: Teaching Assistant
-      institution: LIACS, Leiden University
-      year: feb 2023 - jul 2023
-      description:
-        - Teaching assistant for the MSc course "Reinforcement Learning" taught by Prof. Aske Plaat
-        - Correcting and grading assignments. Helping students via email and during workgroup sessions
 
 - title: Languages
   type: list
